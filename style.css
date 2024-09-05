@@ -1,12 +1,4 @@
-#about-me-id{
-    font-size: 6rem;
-    text-align: center;
-    font-style: italic;
-    text-decoration: underline 1px black;
-    padding: 2rem;
-    color: azure;
 
-}
 @media (max-width: 575.98px){
     #about-me-id{
         color: black;
